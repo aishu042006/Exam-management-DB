@@ -30,3 +30,7 @@ This project models a university's examination system using SQL. It handles stud
 - Compatible with MySQL / PostgreSQL (minor edits may be needed)
 - Extendable for exam results, grading, user roles, etc.
 
+![image](https://github.com/user-attachments/assets/95adedf1-a38a-47e4-8d57-c01f7033b17c)
+![image](https://github.com/user-attachments/assets/32dae1f1-fccd-44df-b7ce-448327c1be02)
+
+
