@@ -31,6 +31,6 @@ This project models a university's examination system using SQL. It handles stud
 - Extendable for exam results, grading, user roles, etc.
 
 ![image](https://github.com/user-attachments/assets/95adedf1-a38a-47e4-8d57-c01f7033b17c)
-![image](https://github.com/user-attachments/assets/32dae1f1-fccd-44df-b7ce-448327c1be02)
+![P](https://github.com/user-attachments/assets/4abe98e9-dd60-445b-aaae-74f58fc0e7b8)
 
 
